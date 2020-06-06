@@ -20,7 +20,7 @@ Did the student perform some relevant confidence intervals and/or tests?
 Were the results of the tests and/or intervals interpreted in the context of the problem correctly?
 Did the student describe the assumptions needed for their conclusions?
 
-#Part 1: Simulation Exercise Instructionsless 
+## Part 1: Simulation Exercise Instructionsless 
 
 In this project you will investigate the exponential distribution in R and compare it with the Central Limit Theorem.
 The exponential distribution can be simulated in R with rexp(n, lambda) where lambda is the rate parameter.
@@ -29,7 +29,7 @@ of the simulations. You will investigate the distribution of averages of 40 expo
 a thousand simulations. 
 
 
-#Part 2: Basic Inferential Data Analysis Instructionsless 
+## Part 2: Basic Inferential Data Analysis Instructionsless 
 Now in the second portion of the project, we're going to analyze the ToothGrowth data in the R datasets package.
 
 1-Load the ToothGrowth data and perform some basic exploratory data analyses
