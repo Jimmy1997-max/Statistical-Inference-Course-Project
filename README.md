@@ -34,7 +34,7 @@ Now in the second portion of the project, we're going to analyze the ToothGrowth
 
 1-Load the ToothGrowth data and perform some basic exploratory data analyses
 2-Provide a basic summary of the data.
-3-Use confidence intervals and/or hypothesis tests to compare tooth growth by supp and dose. (Only use the techniques from class, even if there's other approaches worth considering)
+3-Use confidence intervals and/or hypothesis tests to compare tooth growth by supp and dose.
 4-State your conclusions and the assumptions needed for your conclusions.
 
 
